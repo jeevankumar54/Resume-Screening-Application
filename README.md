@@ -44,7 +44,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Resume-Screening-Application.git
+git clone https://github.com/jeevankumar54/Resume-Screening-Application.git
 cd Resume-Screening-Application
 ```
 2. Install the necessary dependencies:
