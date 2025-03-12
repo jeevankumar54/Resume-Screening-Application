@@ -23,7 +23,7 @@ The system can be trained on any dataset consisting of labeled resumes with diff
 ## Technologies and Tools
 * Programming Language: Python
 * NLP Techniques: TF-IDF vectorization, Tokenization, Lemmatization, Named Entity Recognition (NER)
-* Machine Learning Algorithms: Logistic Regression, Support Vector Machine (SVM), Random Forest Classifier
+* Machine Learning Algorithms: K-Nearest Neighbor(KNN)
 * Libraries:
    * sklearn: For model building, feature extraction, and evaluation
    * matplotlib and seaborn: For data visualization and analysis
